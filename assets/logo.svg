@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ed8936;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dd6b20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Caja/Store -->
+  <rect x="15" y="35" width="70" height="50" rx="5" fill="url(#grad)" opacity="0.9"/>
+  <rect x="20" y="40" width="60" height="40" rx="3" fill="#1a365d"/>
+  
+  <!-- Techo -->
+  <polygon points="10,38 50,15 90,38" fill="url(#grad)"/>
+  <polygon points="18,38 50,20 82,38" fill="#2c5282"/>
+  
+  <!-- Ventana/Display -->
+  <rect x="35" y="50" width="30" height="25" rx="2" fill="#ed8936" opacity="0.8"/>
+  <line x1="50" y1="50" x2="50" y2="75" stroke="#1a365d" stroke-width="2"/>
+  <line x1="35" y1="62" x2="65" y2="62" stroke="#1a365d" stroke-width="2"/>
+  
+  <!-- Estrella Global -->
+  <circle cx="50" cy="28" r="6" fill="#fff" opacity="0.9"/>
+</svg>
+
