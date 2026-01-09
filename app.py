@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, '.')
 
 from src.layouts import create_layout
-from src.callbacks import register_navigation_callbacks, register_kpi_callbacks, register_chart_callbacks
+from src.callbacks import register_kpi_callbacks, register_chart_callbacks, register_filter_callbacks
 
 df = pd.read_csv('./data/GlobalSuperstore-Data.csv')
 
@@ -29,7 +29,7 @@ app.title = "Global Superstore Dashboard"
 app.layout = create_layout(df)
 
 # Registrar callbacks
-register_navigation_callbacks()
+register_filter_callbacks(df)
 register_kpi_callbacks(df)
 register_chart_callbacks(df)
 
