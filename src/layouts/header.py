@@ -2,9 +2,6 @@ from dash import html, dcc
 
 NAV_LINKS = [
     {"label": "Dashboard", "href": "/"},
-    {"label": "Ventas", "href": "/ventas"},
-    {"label": "Productos", "href": "/productos"},
-    {"label": "Clientes", "href": "/clientes"},
 ]
 
 def create_header():
@@ -20,13 +17,13 @@ def create_header():
             ),
             html.Nav(
                 id="header-nav",
-                className="header-nav",
+                className="header-nav active",
                 children=[
                     html.A(
                         link["label"],
                         href=link["href"],
                         id=f"nav-link-{link['href'].strip('/') or 'home'}",
-                        className="nav-link"
+                        className="nav-link active"
                     )
                     for link in NAV_LINKS
                 ]
