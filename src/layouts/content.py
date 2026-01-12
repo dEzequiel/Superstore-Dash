@@ -81,6 +81,19 @@ def create_content():
                             ),
                             html.Span(id="kpi-ticket-trend", className="kpi-trend")
                         ]
+                    ),
+                    html.Div(
+                        id="kpi-card-target",
+                        className="kpi-card kpi-card-api",
+                        children=[
+                            html.Span("Objetivo Cumplido", className="kpi-label"),
+                            dcc.Loading(
+                                type="dot",
+                                color="#22c55e",
+                                children=html.H3(id="kpi-target", className="kpi-value")
+                            ),
+                            html.Span("(desde API)", className="kpi-source")
+                        ]
                     )
                 ]
             ),

@@ -1,0 +1,695 @@
+{
+  "sales_targets": [
+    {
+      "region_code": "US",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 35000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "US",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 30000,
+      "growth_rate_expected": 0.08,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "US",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 30000,
+      "growth_rate_expected": 0.05,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 50000,
+      "growth_rate_expected": 0.15,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 45000,
+      "growth_rate_expected": 0.12,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 30000,
+      "growth_rate_expected": 0.08,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 32000,
+      "growth_rate_expected": 0.12,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 800000,
+      "growth_rate_expected": 0.07,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 35000,
+      "growth_rate_expected": 0.05,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 28000,
+      "growth_rate_expected": 0.20,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 600000,
+      "growth_rate_expected": 0.15,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 20000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 10000,
+      "growth_rate_expected": 0.14,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 9000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 8000,
+      "growth_rate_expected": 0.06,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 10000,
+      "growth_rate_expected": 0.25,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 400000,
+      "growth_rate_expected": 0.18,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - nuevo mercado prioritario"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 9000,
+      "growth_rate_expected": 0.12,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "TECH",
+      "fiscal_year": 2011,
+      "quarterly_target": 700,
+      "growth_rate_expected": 0.08,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "FURN",
+      "fiscal_year": 2011,
+      "quarterly_target": 100,
+      "growth_rate_expected": 0.06,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "OFF",
+      "fiscal_year": 2011,
+      "quarterly_target": 900,
+      "growth_rate_expected": 0.04,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "US",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 32000,
+      "growth_rate_expected": 0.11,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "US",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 34000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "US",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 27000,
+      "growth_rate_expected": 0.08,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 60000,
+      "growth_rate_expected": 0.18,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 55000,
+      "growth_rate_expected": 0.11,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 38000,
+      "growth_rate_expected": 0.11,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 50000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 800000,
+      "growth_rate_expected": 0.08,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 45000,
+      "growth_rate_expected": 0.08,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 35000,
+      "growth_rate_expected": 0.21,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 600000,
+      "growth_rate_expected": 0.16,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 24000,
+      "growth_rate_expected": 0.11,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 11000,
+      "growth_rate_expected": 0.15,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 10000,
+      "growth_rate_expected": 0.11,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 11000,
+      "growth_rate_expected": 0.07,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 13000,
+      "growth_rate_expected": 0.26,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 400000,
+      "growth_rate_expected": 0.19,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - nuevo mercado prioritario"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 10000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "TECH",
+      "fiscal_year": 2012,
+      "quarterly_target": 900,
+      "growth_rate_expected": 0.09,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "FURN",
+      "fiscal_year": 2012,
+      "quarterly_target": 300,
+      "growth_rate_expected": 0.07,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "OFF",
+      "fiscal_year": 2012,
+      "quarterly_target": 2000,
+      "growth_rate_expected": 0.05,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "US",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 45000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "US",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 40000,
+      "growth_rate_expected": 0.09,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "US",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 36000,
+      "growth_rate_expected": 0.09,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 75000,
+      "growth_rate_expected": 0.19,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 75000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 45000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 56000,
+      "growth_rate_expected": 0.14,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 800000,
+      "growth_rate_expected": 0.09,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 55000,
+      "growth_rate_expected": 0.09,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 43000,
+      "growth_rate_expected": 0.21,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 600000,
+      "growth_rate_expected": 0.16,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 32000,
+      "growth_rate_expected": 0.12,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 15000,
+      "growth_rate_expected": 0.16,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 9000,
+      "growth_rate_expected": 0.12,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 16000,
+      "growth_rate_expected": 0.08,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 18000,
+      "growth_rate_expected": 0.27,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 400000,
+      "growth_rate_expected": 0.20,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - nuevo mercado prioritario"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 15000,
+      "growth_rate_expected": 0.14,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "TECH",
+      "fiscal_year": 2013,
+      "quarterly_target": 1600,
+      "growth_rate_expected": 0.10,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "FURN",
+      "fiscal_year": 2013,
+      "quarterly_target": 550,
+      "growth_rate_expected": 0.08,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "OFF",
+      "fiscal_year": 2013,
+      "quarterly_target": 1600,
+      "growth_rate_expected": 0.06,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "US",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 55000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "US",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 43000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "US",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 50000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 90000,
+      "growth_rate_expected": 0.19,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 95000,
+      "growth_rate_expected": 0.13,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "APAC",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 65000,
+      "growth_rate_expected": 0.14,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 82000,
+      "growth_rate_expected": 0.15,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 800000,
+      "growth_rate_expected": 0.09,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "EU",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 72000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 50000,
+      "growth_rate_expected": 0.22,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 600000,
+      "growth_rate_expected": 0.17,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - estrategia de expansión"
+    },
+    {
+      "region_code": "LATAM",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 36000,
+      "growth_rate_expected": 0.14,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 23000,
+      "growth_rate_expected": 0.16,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 17000,
+      "growth_rate_expected": 0.12,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "EMEA",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 20000,
+      "growth_rate_expected": 0.09,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 23000,
+      "growth_rate_expected": 0.28,
+      "priority_level": "HIGH"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 400000,
+      "growth_rate_expected": 0.20,
+      "priority_level": "CRITICAL",
+      "notes": "Target agresivo - nuevo mercado prioritario"
+    },
+    {
+      "region_code": "AFRICA",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 19000,
+      "growth_rate_expected": 0.15,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "TECH",
+      "fiscal_year": 2014,
+      "quarterly_target": 2000,
+      "growth_rate_expected": 0.10,
+      "priority_level": "MEDIUM"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "FURN",
+      "fiscal_year": 2014,
+      "quarterly_target": 1200,
+      "growth_rate_expected": 0.08,
+      "priority_level": "LOW"
+    },
+    {
+      "region_code": "CANADA",
+      "product_line": "OFF",
+      "fiscal_year": 2014,
+      "quarterly_target": 1500,
+      "growth_rate_expected": 0.06,
+      "priority_level": "LOW"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2014-12-31",
+    "currency": "USD",
+    "target_type": "quarterly",
+    "version": "2.0",
+    "notes": "Targets calibrados. EU, LATAM y Africa tienen targets agresivos en Furniture que no se cumplen."
+  }
+}

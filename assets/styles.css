@@ -315,6 +315,46 @@ body {
     color: var(--color-danger);
 }
 
+.kpi-card-api {
+    border-width: 1px;
+    border-style: solid;
+    transition: all 0.3s ease;
+}
+
+/* Estado: Objetivo Cumplido */
+.kpi-status-success {
+    border-color: var(--color-success);
+}
+
+.kpi-status-success .kpi-value {
+    color: var(--color-success);
+}
+
+/* Estado: Cerca del Objetivo */
+.kpi-status-warning {
+    border-color: #f59e0b;
+}
+
+.kpi-status-warning .kpi-value {
+    color: #f59e0b;
+}
+
+/* Estado: No Cumplido */
+.kpi-status-danger {
+    border-color: var(--color-danger);
+}
+
+.kpi-status-danger .kpi-value {
+    color: var(--color-danger);
+}
+
+.kpi-source {
+    font-size: 0.6rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin-top: 0.5rem;
+}
+
 /* ============================================
    Summary Section
    ============================================ */
