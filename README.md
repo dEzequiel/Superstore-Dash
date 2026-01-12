@@ -30,3 +30,8 @@ Global Superstore es un minorista global en línea con sede en Nueva York, orien
 - **Profit**: Beneficio o pérdida neta asociada al pedido o producto.
 - **Shipping Cost**: Coste total de envío del pedido.
 - **Order Priority**: Prioridad asignada al pedido según criterios del negocio.
+
+## Arrancar API y dashboard
+
+Usa `python run_all.py` para arrancar simultáneamente la API de objetivos (`api/fake_api.py`) y el dashboard (`app.py`). El script se encarga de mantener ambos procesos y cancelas con `Ctrl+C`.
+
